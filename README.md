@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionné de code et de jeux vidéo, je suis constamment à la recherche de nouveaux défis pour améliorer mes compétences de développement. J'aime créer des expériences engageantes pour les joueurs et résoudre des problèmes complexes en utilisant des outils et des techniques modernes. Chaque jour, j'essaie de me surpasser en apprenant de nouvelles technologies et en pratiquant constamment pour être à jour avec les dernières tendances de l'industrie. Si vous cherchez un collaborateur passionné et déterminé à créer des projets exceptionnels, je serais ravi de travailler avec vous.
+Passionné de code et de jeux vidéo, je suis constamment à la recherche de nouveaux défis pour améliorer mes compétences de développement.
 
 
 ## 🌐 Socials:
